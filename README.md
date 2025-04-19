@@ -1,3 +1,3 @@
 # Stats discord bot
 
-Readme comming soon
+An simple stats bot that can show stats about citys, countrys, lands, the moon and sun and minecraft servers.
